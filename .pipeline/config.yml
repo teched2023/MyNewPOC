@@ -1,12 +1,12 @@
 steps:
   integrationArtifactDeploy:
-    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    ServiceKeyCred: bdcpiqa.it
     integrationFlowId: 202564-flow4
   integrationArtifactGetMplStatus:
-    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    ServiceKeyCred: bdcpiqa.it
     integrationFlowId: 202564-flow4
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    ServiceKeyCred: bdcpiqa.it
     integrationFlowId: 202564-flow4
     integrationFlowName: 202564-flow4
     packageId: CICD
